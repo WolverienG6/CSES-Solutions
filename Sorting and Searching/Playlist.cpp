@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/* 
+time complexity: O(N*long(N))
+space complexity: O(N)
+*/
+
 int main()
 {
     int n;
